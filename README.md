@@ -138,3 +138,7 @@ Since the English audio in the English-Chinese, English-German, and English-Japa
     <td>Here we see a challenge in translating idiomatic or culturally specific expressions. The SATE translation "见见你们的表亲" is more literal, directly translating "meet your cousins." However, this may not convey the intended warm or informal greeting context in Chinese. AST-SPARK's translation "见到你们感到很亲切" rephrases the sentence for a more culturally appropriate expression, which while not literal, captures the intended friendly and welcoming tone better. This demonstrates an advantage in producing translations that better resonate within the target cultural context.</td>
   </tr>
 </table>
+
+Here, we provide a partial screenshot of the specific scoring results, which includes the translation evaluation scores of the SATE and AST-SPARK systems. In this screenshot, the "Label" column indicates the category of evident errors for each data entry. If a clear error type can be identified, we assign one or more labels for subsequent analysis. Specifically, 'A' stands for over-translation or under-translation, 'B' denotes mistranslation, 'C' indicates literal translation, and so on.
+
+![图片无法显示](sample.jpg)
